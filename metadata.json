@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Student Helpdesk",
+  "description": "Your 24/7 academic companion for study tips, exam preparation, and career guidance powered by Google Gemini.",
+  "requestFramePermissions": []
+}
